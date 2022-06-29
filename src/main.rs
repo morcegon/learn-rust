@@ -1,7 +1,8 @@
 // mod print;
 // mod vars;
 // mod types;
-mod strings;
+// mod strings;
+mod tuples;
 fn main() {
-    strings::run()
+    tuples::run()
 }
